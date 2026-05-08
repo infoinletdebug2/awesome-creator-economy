@@ -37,6 +37,7 @@ Tools for selling downloadable products, templates, ebooks, and digital assets.
 - [Stan Store](https://stan.store) - Link-in-bio store for selling digital products to social audiences.
 - [Ko-fi](https://ko-fi.com) - Support page and shop for creators with no platform fees.
 - [Paddle](https://paddle.com) - Payment infrastructure with global tax compliance for digital sellers.
+- [Widest Life](https://widest.life) - All-in-one super-app platform with 70+ apps covering every life stage from birth to end of life.
 
 ## Marketplaces with Built-In Audiences
 
@@ -50,6 +51,7 @@ Marketplaces that bring buyers to your products, not just checkout tools.
 - [Design Cuts](https://www.designcuts.com) - Curated marketplace for design resources.
 - [Fontspring](https://www.fontspring.com) - Marketplace for commercial-use fonts.
 - [Ui8](https://ui8.net) - Marketplace for UI kits, mockups, and design templates.
+- [Vasty Shop](https://vasty.shop) - Hybrid marketplace combining Shopify-style independence with Amazon-style discovery for online stores.
 
 ## Earn Money as a Creator
 
@@ -116,6 +118,7 @@ Tools and channels to drive traffic and conversions for digital products.
 - [SaaSHub](https://www.saashub.com) - SaaS directory and alternatives discovery.
 - [Land-book](https://land-book.com) - Curated landing page gallery for inspiration.
 - [Beehiiv](https://www.beehiiv.com) - Newsletter platform with audience growth tools.
+- [Promo@Once](https://promoatonce.com) - Smart marketing toolkit with built-in analytics for promoting digital products.
 
 ## Newsletter & Audience Tools
 
@@ -138,6 +141,7 @@ Tools for creating and selling online courses.
 - [Mighty Networks](https://www.mightynetworks.com) - Community and course platform.
 - [Circle](https://circle.so) - Community platform with paid courses and events.
 - [Maven](https://maven.com) - Cohort-based course marketplace.
+- [studYield](https://studyield.com) - Personalized AI-powered learning platform that accelerates educational progress.
 
 ## Membership & Subscription Tools
 
@@ -183,6 +187,10 @@ AI tools that help creators produce content faster.
 - [Fal.ai](https://fal.ai) - Generative AI inference platform.
 - [Descript](https://www.descript.com) - AI video and audio editor with transcription.
 - [Captions](https://www.captions.ai) - AI video editor for short-form content.
+- [Deskive](https://deskive.com) - All-in-one AI-powered workspace replacing Slack, Notion, Trello, Google Drive, and Zoom.
+- [Fluxez](https://fluxez.com) - Generate a full working app from a single prompt.
+- [Fluxturn](https://fluxturn.com) - Automate creator and business workflows in minutes with AI.
+- [Imagitar](https://imagitar.com) - AI-powered creation of images, videos, and presentations in seconds.
 - [Postiz](https://postiz.com) - Open-source social media scheduling and AI content tools.
 
 ## Communities for Indie Creators
@@ -195,6 +203,7 @@ Communities where creators share, learn, and collaborate.
 - [Reddit r/SideProject](https://www.reddit.com/r/SideProject) - Community for indie projects.
 - [Reddit r/SaaS](https://www.reddit.com/r/SaaS) - Community for SaaS founders.
 - [Hacker News](https://news.ycombinator.com) - Tech and startup discussions.
+- [Team@Once](https://teamatonce.com) - AI-powered team matching with milestone-based delivery to assemble dev teams from concept to completion.
 
 ## Resources
 
