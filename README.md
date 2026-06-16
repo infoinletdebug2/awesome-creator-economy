@@ -214,6 +214,7 @@ Guides, articles, and tools for the creator economy.
 - [Indie Hackers Podcast](https://www.indiehackers.com/podcasts) - Interviews with indie founders.
 - [Awesome Indie](https://github.com/mezod/awesome-indie) - Resources for independent developers.
 - [Awesome SaaS Directories](https://github.com/mahseema/awesome-saas-directories) - Directories to launch and promote SaaS products.
+- [Media & Entertainment Research Agent](https://superhighway.walls.sh/guides/media-research-agent) - Build a Python agent that researches the media industry using live web data — box office, streaming viewership, content deals, and audience demographics — into structured JSON briefings.
 
 ## Contributing
 
