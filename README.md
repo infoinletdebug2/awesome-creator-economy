@@ -170,6 +170,7 @@ Payment processors and payout rails for creators worldwide.
 
 Tools to track audience and revenue performance.
 
+- [Digital Product Seller Ledger Sample](https://ronnie2025.github.io/xianyu-virtual-product-ledger-sample/) - Free Excel/CSV ledger for digital creators to track orders, fees, costs, refunds, and margins.
 - [Plausible](https://plausible.io) - Privacy-first lightweight web analytics.
 - [Fathom](https://usefathom.com) - Simple analytics without cookies.
 - [PostHog](https://posthog.com) - Product analytics with session recording.
