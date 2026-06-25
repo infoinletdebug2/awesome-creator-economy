@@ -211,6 +211,7 @@ Guides, articles, and tools for the creator economy.
 
 - [Stripe Atlas Guides](https://stripe.com/atlas/guides) - Founder guides on starting and running an online business.
 - [The Creator Economy Report](https://www.signalfire.com/blog/creator-economy) - SignalFire's industry analysis.
+- [The Free X Growth Course](https://slappost.app/learn/) - Free no-login course with five lessons on growing on X: hooks, threads, the algorithm, replies, and profile funnels.
 - [Indie Hackers Podcast](https://www.indiehackers.com/podcasts) - Interviews with indie founders.
 - [Awesome Indie](https://github.com/mezod/awesome-indie) - Resources for independent developers.
 - [Awesome SaaS Directories](https://github.com/mahseema/awesome-saas-directories) - Directories to launch and promote SaaS products.
