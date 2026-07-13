@@ -124,12 +124,13 @@ Tools and channels to drive traffic and conversions for digital products.
 
 Tools to build and monetize an email audience.
 
-- [ConvertKit](https://convertkit.com) - Email marketing for creators with sales and automation.
 - [Beehiiv](https://www.beehiiv.com) - Newsletter platform built for growth and monetization.
-- [Substack](https://substack.com) - Newsletter and podcast platform with paid subscriptions.
-- [Ghost](https://ghost.org) - Open-source publishing platform with memberships.
 - [Buttondown](https://buttondown.email) - Lightweight newsletter tool for indie writers.
+- [ConvertKit](https://convertkit.com) - Email marketing for creators with sales and automation.
+- [encer](https://encer.me/en) - Interactive link-in-bio pages for creator events with polls, messages, giveaways, live updates, and privacy-aware analytics.
+- [Ghost](https://ghost.org) - Open-source publishing platform with memberships.
 - [Mailchimp](https://mailchimp.com) - Email marketing platform with automation.
+- [Substack](https://substack.com) - Newsletter and podcast platform with paid subscriptions.
 
 ## Course Platforms
 
