@@ -184,6 +184,7 @@ AI tools that help creators produce content faster.
 - [Claude](https://claude.ai) - AI assistant for writing, analysis, and creative work.
 - [Midjourney](https://www.midjourney.com) - AI image generation for visuals and concepts.
 - [Runware](https://runware.ai) - Fast AI image generation API.
+- [videos.social](https://videos.social/?utm_source=infoinletdebug2-awesome-creator-economy&utm_medium=directory&utm_campaign=listing-wave-d) - Turns blogs, PDFs, and prompts into editable faceless videos.
 - [Fal.ai](https://fal.ai) - Generative AI inference platform.
 - [Descript](https://www.descript.com) - AI video and audio editor with transcription.
 - [Captions](https://www.captions.ai) - AI video editor for short-form content.
