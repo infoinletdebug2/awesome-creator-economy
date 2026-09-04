@@ -119,6 +119,7 @@ Tools and channels to drive traffic and conversions for digital products.
 - [Land-book](https://land-book.com) - Curated landing page gallery for inspiration.
 - [Beehiiv](https://www.beehiiv.com) - Newsletter platform with audience growth tools.
 - [Promo@Once](https://promoatonce.com) - Smart marketing toolkit with built-in analytics for promoting digital products.
+- [SaaSCity](https://saascity.io) - Directory for launching SaaS and AI products, rendered as an isometric city map where every listing becomes a building.
 
 ## Newsletter & Audience Tools
 
