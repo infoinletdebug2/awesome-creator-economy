@@ -187,6 +187,7 @@ AI tools that help creators produce content faster.
 - [Fal.ai](https://fal.ai) - Generative AI inference platform.
 - [Descript](https://www.descript.com) - AI video and audio editor with transcription.
 - [Captions](https://www.captions.ai) - AI video editor for short-form content.
+- [shortshort](https://www.shortshort.io) - Turns a long talk or podcast into vertical shorts with word-timed captions.
 - [Deskive](https://deskive.com) - All-in-one AI-powered workspace replacing Slack, Notion, Trello, Google Drive, and Zoom.
 - [Fluxez](https://fluxez.com) - Generate a full working app from a single prompt.
 - [Fluxturn](https://fluxturn.com) - Automate creator and business workflows in minutes with AI.
