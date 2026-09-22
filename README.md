@@ -193,6 +193,8 @@ AI tools that help creators produce content faster.
 - [Imagitar](https://imagitar.com) - AI-powered creation of images, videos, and presentations in seconds.
 - [Postiz](https://postiz.com) - Open-source social media scheduling and AI content tools.
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Open-source toolkit for coding agents to compose and edit videos from editable timelines; install from source.
+
 ## Communities for Indie Creators
 
 Communities where creators share, learn, and collaborate.
