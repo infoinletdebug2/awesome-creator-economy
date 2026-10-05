@@ -85,6 +85,7 @@ Tools that connect brands with creators for user-generated content campaigns.
 Networks where creators earn commissions promoting products.
 
 - [Peddlum](https://peddlum.com) - Built-in affiliate tracking with click intelligence (IP, device, geo) and creator tier multipliers.
+- [Power CM Partners](https://partners.powercm-software.com/) - Software partner network where publishers create tracked campaigns and earn commissions on attributed verified sales.
 - [Impact](https://impact.com) - Partnership automation platform with affiliate tracking.
 - [ShareASale](https://www.shareasale.com) - Affiliate network with thousands of merchants.
 - [PartnerStack](https://partnerstack.com) - Partner ecosystem platform for SaaS companies.
@@ -110,6 +111,7 @@ Trusted marketplaces and stores to discover and purchase digital products.
 Tools and channels to drive traffic and conversions for digital products.
 
 - [Peddlum](https://peddlum.com) - Built-in UGC creator network and affiliate funnel make every transaction a marketing opportunity.
+- [Power CM Creators](https://partners.powercm-software.com/auth?mode=up&next=creators) - Distribution route for approved web software products to publish partner programs for tracked promotion.
 - [Product Hunt](https://www.producthunt.com) - Daily product discovery platform for tech enthusiasts.
 - [Indie Hackers](https://www.indiehackers.com) - Community of indie founders for product launches.
 - [Hacker News](https://news.ycombinator.com) - Tech community for sharing new products and stories.
