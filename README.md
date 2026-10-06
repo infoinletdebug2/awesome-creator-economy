@@ -209,11 +209,12 @@ Communities where creators share, learn, and collaborate.
 
 Guides, articles, and tools for the creator economy.
 
-- [Stripe Atlas Guides](https://stripe.com/atlas/guides) - Founder guides on starting and running an online business.
-- [The Creator Economy Report](https://www.signalfire.com/blog/creator-economy) - SignalFire's industry analysis.
-- [Indie Hackers Podcast](https://www.indiehackers.com/podcasts) - Interviews with indie founders.
 - [Awesome Indie](https://github.com/mezod/awesome-indie) - Resources for independent developers.
 - [Awesome SaaS Directories](https://github.com/mahseema/awesome-saas-directories) - Directories to launch and promote SaaS products.
+- [Follower-Wachstum berechnen](https://followerkaufen.at/tools/follower-growth) - Free German-language calculator for a creator’s required daily and weekly net follower growth from a target and timeframe.
+- [Indie Hackers Podcast](https://www.indiehackers.com/podcasts) - Interviews with indie founders.
+- [Stripe Atlas Guides](https://stripe.com/atlas/guides) - Founder guides on starting and running an online business.
+- [The Creator Economy Report](https://www.signalfire.com/blog/creator-economy) - SignalFire's industry analysis.
 
 ## Contributing
 
