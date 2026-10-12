@@ -180,18 +180,19 @@ Tools to track audience and revenue performance.
 
 AI tools that help creators produce content faster.
 
+- [Captions](https://www.captions.ai) - AI video editor for short-form content.
 - [ChatGPT](https://chat.openai.com) - Conversational AI for writing and ideation.
 - [Claude](https://claude.ai) - AI assistant for writing, analysis, and creative work.
-- [Midjourney](https://www.midjourney.com) - AI image generation for visuals and concepts.
-- [Runware](https://runware.ai) - Fast AI image generation API.
-- [Fal.ai](https://fal.ai) - Generative AI inference platform.
 - [Descript](https://www.descript.com) - AI video and audio editor with transcription.
-- [Captions](https://www.captions.ai) - AI video editor for short-form content.
 - [Deskive](https://deskive.com) - All-in-one AI-powered workspace replacing Slack, Notion, Trello, Google Drive, and Zoom.
+- [Fal.ai](https://fal.ai) - Generative AI inference platform.
 - [Fluxez](https://fluxez.com) - Generate a full working app from a single prompt.
 - [Fluxturn](https://fluxturn.com) - Automate creator and business workflows in minutes with AI.
 - [Imagitar](https://imagitar.com) - AI-powered creation of images, videos, and presentations in seconds.
+- [Midjourney](https://www.midjourney.com) - AI image generation for visuals and concepts.
 - [Postiz](https://postiz.com) - Open-source social media scheduling and AI content tools.
+- [QuietTake](https://noiseremover.site/) - Browser-local RNNoise cleanup for short voiceovers, with playback comparison and WAV export; free without signup or audio upload, ≤50MB and ≤5min.
+- [Runware](https://runware.ai) - Fast AI image generation API.
 
 ## Communities for Indie Creators
 
