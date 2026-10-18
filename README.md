@@ -192,6 +192,7 @@ AI tools that help creators produce content faster.
 - [Fluxturn](https://fluxturn.com) - Automate creator and business workflows in minutes with AI.
 - [Imagitar](https://imagitar.com) - AI-powered creation of images, videos, and presentations in seconds.
 - [Postiz](https://postiz.com) - Open-source social media scheduling and AI content tools.
+- [T-Social](https://t-social.me/creators/) - Telegram Mini App where creators publish short clips and AI chat characters, 18+.
 
 ## Communities for Indie Creators
 
