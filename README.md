@@ -185,6 +185,7 @@ AI tools that help creators produce content faster.
 - [Midjourney](https://www.midjourney.com) - AI image generation for visuals and concepts.
 - [Runware](https://runware.ai) - Fast AI image generation API.
 - [Fal.ai](https://fal.ai) - Generative AI inference platform.
+- [FacelessShorts](https://facelessshorts.io) - Automated faceless short-form video series with voiceover, captions, and scheduled publishing.
 - [Descript](https://www.descript.com) - AI video and audio editor with transcription.
 - [Captions](https://www.captions.ai) - AI video editor for short-form content.
 - [Deskive](https://deskive.com) - All-in-one AI-powered workspace replacing Slack, Notion, Trello, Google Drive, and Zoom.
