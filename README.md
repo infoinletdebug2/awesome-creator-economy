@@ -109,16 +109,17 @@ Trusted marketplaces and stores to discover and purchase digital products.
 
 Tools and channels to drive traffic and conversions for digital products.
 
+- [AlternativeTo](https://alternativeto.net) - Discovery platform organized by alternatives to popular tools.
+- [Beehiiv](https://www.beehiiv.com) - Newsletter platform with audience growth tools.
+- [Hacker News](https://news.ycombinator.com) - Tech community for sharing new products and stories.
+- [Indie Hackers](https://www.indiehackers.com) - Community of indie founders for product launches.
+- [Land-book](https://land-book.com) - Curated landing page gallery for inspiration.
+- [OpenSparta](https://opensparta.com/en) - SaaS workspace for discovering relevant Telegram conversations and managing connected accounts and proxies.
 - [Peddlum](https://peddlum.com) - Built-in UGC creator network and affiliate funnel make every transaction a marketing opportunity.
 - [Product Hunt](https://www.producthunt.com) - Daily product discovery platform for tech enthusiasts.
-- [Indie Hackers](https://www.indiehackers.com) - Community of indie founders for product launches.
-- [Hacker News](https://news.ycombinator.com) - Tech community for sharing new products and stories.
-- [Reddit](https://www.reddit.com) - Community-driven forums with niche audiences.
-- [AlternativeTo](https://alternativeto.net) - Discovery platform organized by alternatives to popular tools.
-- [SaaSHub](https://www.saashub.com) - SaaS directory and alternatives discovery.
-- [Land-book](https://land-book.com) - Curated landing page gallery for inspiration.
-- [Beehiiv](https://www.beehiiv.com) - Newsletter platform with audience growth tools.
 - [Promo@Once](https://promoatonce.com) - Smart marketing toolkit with built-in analytics for promoting digital products.
+- [Reddit](https://www.reddit.com) - Community-driven forums with niche audiences.
+- [SaaSHub](https://www.saashub.com) - SaaS directory and alternatives discovery.
 
 ## Newsletter & Audience Tools
 
