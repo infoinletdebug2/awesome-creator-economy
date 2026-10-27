@@ -22,6 +22,7 @@ The creator economy is fragmented across dozens of tools — checkout platforms,
 - [Communities for Indie Creators](#communities-for-indie-creators)
 - [Resources](#resources)
 - [Contributing](#contributing)
+- [Ideoy](https://ideoy.ai) - AI meme video remakes — one-click viral template remakes for short-form content.
 
 ## Platforms to Sell Digital Products
 
