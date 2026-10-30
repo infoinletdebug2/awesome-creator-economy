@@ -175,6 +175,7 @@ Tools to track audience and revenue performance.
 - [PostHog](https://posthog.com) - Product analytics with session recording.
 - [Google Analytics](https://analytics.google.com) - Free web analytics from Google.
 - [Mixpanel](https://mixpanel.com) - Product analytics for digital products.
+- [igtrackr](https://igtrackr.com) - Free Instagram follower tracking and analytics for any public account, including engagement rate and follower growth.
 
 ## AI Tools for Content Creators
 
