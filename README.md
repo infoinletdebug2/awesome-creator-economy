@@ -71,6 +71,7 @@ Platforms that pay creators for content, promotion, or community building.
 
 Tools that connect brands with creators for user-generated content campaigns.
 
+- [nCircle](https://ncircle.app/) - Connects brands with nano creators who film and publish original campaign videos, with draft review and post-level reporting.
 - [Peddlum](https://peddlum.com) - Self-serve UGC campaigns where any seller can recruit TikTok, Instagram, and YouTube creators directly from the seller dashboard.
 - [Aspire](https://aspire.io) - Influencer marketing platform for enterprise brands.
 - [Grin](https://grin.co) - Creator management software for direct-to-consumer brands.
