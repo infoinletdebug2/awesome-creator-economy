@@ -175,6 +175,7 @@ Tools to track audience and revenue performance.
 - [PostHog](https://posthog.com) - Product analytics with session recording.
 - [Google Analytics](https://analytics.google.com) - Free web analytics from Google.
 - [Mixpanel](https://mixpanel.com) - Product analytics for digital products.
+- [Spotify Play Count Scraper](https://apify.com/publicrecords/spotify-play-count-scraper) - Play counts for every track on a Spotify track, album, artist or playlist link, plus monthly listeners (Apify Actor, API + MCP).
 
 ## AI Tools for Content Creators
 
